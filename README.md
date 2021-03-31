@@ -1,5 +1,5 @@
 # Traffic Accident Severity Shiny App
- This was a university project where we were tasked with creating a Shiny app in R that uses a logistic regression to investigate what variables impact the chance of having a severe traffic accident, given an accident occurred.
+ This was a university project where we were tasked with creating a Shiny app in R that uses a logistic regression so that a user can easily obtain a risk score of a severe accident after inputting certain attributes that may be found in a traffic accident (such as surface and light conditions, speed limit of road, type of road).
  
 In particular, the aim of the project was to see how changing the speed limit of the road impacts the chance of severe accident, however, confoudners were added into the regression as to see how speed limit directly impacts the risk of severe accident. 
 
